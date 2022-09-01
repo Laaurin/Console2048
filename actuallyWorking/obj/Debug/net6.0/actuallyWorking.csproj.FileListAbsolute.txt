@@ -1,0 +1,15 @@
+D:\code\C#\Console2048\actuallyWorking\bin\Debug\net6.0\actuallyWorking.exe
+D:\code\C#\Console2048\actuallyWorking\bin\Debug\net6.0\actuallyWorking.deps.json
+D:\code\C#\Console2048\actuallyWorking\bin\Debug\net6.0\actuallyWorking.runtimeconfig.json
+D:\code\C#\Console2048\actuallyWorking\bin\Debug\net6.0\actuallyWorking.dll
+D:\code\C#\Console2048\actuallyWorking\bin\Debug\net6.0\actuallyWorking.pdb
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.csproj.AssemblyReference.cache
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.AssemblyInfoInputs.cache
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.AssemblyInfo.cs
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.csproj.CoreCompileInputs.cache
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.dll
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\refint\actuallyWorking.dll
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.pdb
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\actuallyWorking.genruntimeconfig.cache
+D:\code\C#\Console2048\actuallyWorking\obj\Debug\net6.0\ref\actuallyWorking.dll
